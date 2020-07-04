@@ -1,0 +1,13 @@
+#headerImages {
+  z-index: 1;
+  position: relative;
+}
+
+#headerlogo {
+  user-select: none;
+  width: 100%;
+  max-width: 720px;
+  min-width: 360px;
+  -webkit-user-drag: none;
+}
+
